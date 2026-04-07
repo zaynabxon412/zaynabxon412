@@ -5,7 +5,7 @@
 
 ### 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,github,python,scratch,md&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,python,scratch" />
 </p>
 
 ---
